@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="wps-office-wpsmain.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="43.839286"
+     inkscape:cy="28.4375"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1469"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2160"
+     inkscape:window-height="1337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g1469"
+       transform="translate(8.9999995,-18.000004)">
+      <path
+         style="opacity:1;fill:#4a73c6;fill-opacity:1;stroke:none;stroke-width:2.39314151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -5.9999995,301.64999 H 20 c 1.108,0 2,0.892 2,2 v 26 c 0,1.108 -0.892,2 -2,2 H -5.9999995 c -1.108,0 -2,-0.892 -2,-2 v -26 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect843" />
+      <path
+         style="opacity:1;fill:#5ca5ff;fill-opacity:1;stroke:none;stroke-width:2.23359871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -5.9999995,302.64999 H 20 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H -5.9999995 c -0.554,0 -1,-0.446 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
+         id="rect843-3" />
+      <rect
+         style="fill:#eef5fe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2576"
+         width="4"
+         height="18.999969"
+         x="-3.9999995"
+         y="307.64999"
+         ry="2.0000019" />
+      <rect
+         style="fill:#eef5fe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2576-2"
+         width="3.9999995"
+         height="19.000031"
+         x="14.000001"
+         y="307.64999"
+         ry="2.0000019" />
+      <g
+         id="path11463">
+        <path
+           style="color:#000000;fill:#eef5fe;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m -1.9999995,324.64999 9,-7"
+           id="path12473" />
+        <path
+           style="color:#000000;fill:#eef5fe;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 5.7714844,316.07031 -9,7 a 2,2 0 0 0 -0.3496094,2.80664 2,2 0 0 0 2.80664063,0.35157 l 8.99999997,-7 a 2,2 0 0 0 0.3496094,-2.80665 2,2 0 0 0 -2.8066406,-0.35156 z"
+           id="path12475" />
+      </g>
+      <g
+         id="path11463-9">
+        <path
+           style="color:#000000;fill:#eef5fe;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+           d="m 16,324.64999 -8.9999995,-7"
+           id="path12467" />
+        <path
+           style="color:#000000;fill:#eef5fe;stroke-linecap:round;stroke-linejoin:round"
+           d="m 6.7519531,315.66602 a 2,2 0 0 0 -1.3300781,0.75585 2,2 0 0 0 0.3496094,2.80665 l 8.9999996,7 a 2,2 0 0 0 2.806641,-0.35157 2,2 0 0 0 -0.349609,-2.80664 l -9.0000004,-7 a 2,2 0 0 0 -1.4765625,-0.40429 z"
+           id="path12469" />
+      </g>
+    </g>
+  </g>
+</svg>
